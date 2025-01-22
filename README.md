@@ -39,6 +39,7 @@ Invoicify is a mobile application designed to streamline the invoicing process f
 ### Download the App
 
 📲 **Download the app here:** [Invoicify on Expo](https://expo.dev/accounts/nitin.jha/projects/reactNativeInvoice/builds/8bad1205-d78f-4a7c-b11e-a0a29a97c306)
+or google drive link: https://drive.google.com/file/d/1PuvFUDgN0CdKuSgbIFsEZIvspRZiIUFD/view
 
 Alternatively, scan the QR code below to download the app directly:
 
